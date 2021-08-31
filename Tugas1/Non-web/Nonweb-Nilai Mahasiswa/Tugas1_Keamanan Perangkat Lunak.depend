@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1630405060 source:d:\data c\document\punya titi\codeblock\tugas1_keamanan perangkat lunak\main.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+
